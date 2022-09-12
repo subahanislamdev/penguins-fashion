@@ -1,0 +1,18 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.banner{
+    background-color: #FFFBF0;
+}
+.text-design{
+    color: #FFC300;
+}
+.full-text-design{
+    font-size: 70px;
+    font-weight: 700;
+}
+.btn-color{
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+}
